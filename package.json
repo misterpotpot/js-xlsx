@@ -34,7 +34,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:securedeveloper/js-xlsx.git"
+		"url": "git@github.com:misterpotpot/js-xlsx.git"
 	},
 	"scripts": {
 		"pretest": "git submodule init && git submodule update",
@@ -46,7 +46,7 @@
 		}
 	},
 	"bugs": {
-		"url": "https://github.com/securedeveloper/js-xlsx/issues"
+		"url": "https://github.com/misterpotpot/js-xlsx/issues"
 	},
 	"license": "Apache-2.0",
 	"engines": {
